@@ -18,7 +18,7 @@
 - **Auto Mute**: Automatically mute when deafened (enabled by default)
 
 ## 👨‍💻 Author
-- TheArmagan
+- Swoxycan
 
 ## 🔍 Technical Details
 This plugin modifies the voice state updates to trick the client into showing you as muted/deafened while maintaining your actual connection status.
